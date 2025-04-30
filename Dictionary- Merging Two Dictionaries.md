@@ -27,7 +27,8 @@ print("Merged dictionary:", result)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/11fddff6-d23b-4891-bb12-879117c20be3)
+![image](https://github.com/user-attachments/assets/76961842-2103-4b4d-b041-f948c30ae258)
+
 
 ## Result
 Program executed successfully
